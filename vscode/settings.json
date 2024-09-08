@@ -1,0 +1,336 @@
+{
+    "workbench.colorTheme": "GrunBoxTheme",
+    "vs-kubernetes": {
+        "vs-kubernetes.helm-path.windows": "C:\\Users\\Jordan\\.vs-kubernetes\\tools\\helm\\windows-amd64\\helm.exe",
+        "vs-kubernetes.draft-path.windows": "C:\\Users\\Jordan\\.vs-kubernetes\\tools\\draft\\windows-amd64\\draft.exe",
+        "vs-kubernetes.kubectl-path.windows": "C:\\Users\\Jordan\\.vs-kubernetes\\tools\\kubectl\\kubectl.exe",
+        "vs-kubernetes.minikube-path.windows": "C:\\Users\\Jordan\\.vs-kubernetes\\tools\\minikube\\windows-amd64\\minikube.exe",
+        "vscode-kubernetes.kubectl-path.linux": "/home/bottrell/.vs-kubernetes/tools/kubectl/kubectl",
+        "vscode-kubernetes.helm-path.linux": "/home/bottrell/.vs-kubernetes/tools/helm/linux-amd64/helm",
+        "vscode-kubernetes.minikube-path.linux": "/home/bottrell/.vs-kubernetes/tools/minikube/linux-amd64/minikube",
+        "vscode-kubernetes.kubectl-path.mac": "/Users/bottrell/.vs-kubernetes/tools/kubectl/kubectl",
+        "vscode-kubernetes.helm-path.mac": "/Users/bottrell/.vs-kubernetes/tools/helm/darwin-arm64/helm",
+        "vscode-kubernetes.minikube-path.mac": "/Users/bottrell/.vs-kubernetes/tools/minikube/darwin-arm64/minikube",
+        "vs-kubernetes.minikube-show-information-expiration": "2023-08-15T02:23:25.597Z"
+    },
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter.notebook.ipynb"
+    },
+    "git.autofetch": true,
+    "powershell.promptToUpdatePowerShell": false,
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "editor.acceptSuggestionOnEnter": "off",
+    "security.workspace.trust.untrustedFiles": "open",
+    "redhat.telemetry.enabled": true,
+    "azure.tenant": "04f642b1-ad28-4845-b24f-e7ffcc65e6d4",
+    "[dart]": {
+        "editor.formatOnSave": false,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": "off"
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "liveshare.accessibility.soundsEnabled": false,
+    "dart.openDevTools": "flutter",
+    "dart.showInspectorNotificationsForWidgetErrors": false,
+    "git.confirmSync": false,
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "terminal.integrated.automationProfile.windows": {},
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "editor.formatOnSave": true,
+    "eslint.codeActionsOnSave.rules": null,
+    "errorLens.enabled": true,
+    "editor.lineNumbers": "relative",
+    "svelte.enable-ts-plugin": true,
+    "splunk.commands.token": "eyJraWQiOiJzcGx1bmsuc2VjcmV0IiwiYWxnIjoiSFM1MTIiLCJ2ZXIiOiJ2MiIsInR0eXAiOiJzdGF0aWMifQ.eyJpc3MiOiIzMTM0NDE2IGZyb20gVzA5ODVFQVBQUzUwMTEiLCJzdWIiOiIzMTM0NDE2IiwiYXVkIjoidGVzdDIiLCJpZHAiOiJMREFQOi8vdXMubWVpamVyLmNvbSIsImp0aSI6ImIyYTZhZDE3OTM4ZjA3YmJhMzgwZGQ0ZWQ0MmQzYzZlNzFjMGYxZWJhZTI1NmQ1NGMxMjFlZWY1OTE5NTliMWQiLCJpYXQiOjE2ODY1OTExMzMsImV4cCI6MCwibmJyIjoxNjg2NTkxMTMzfQ.3ztPGYJsCeU2iS-yU41rbk-T_KYzNScIahH5IuTQ7VpJ1y7qdloouYNp8-dpra0sgNiHdq6VE5q3w_GOrfXONg",
+    "splunk.commands.splunkRestUrl": "https://10.101.165.25:8089",
+    "splunk.reports.SplunkSearchHead": "https://10.101.165.25:8089",
+    "splunk.search.searchOutputMode": "json",
+    "splunk.reports.viewRefreshInterval": 60,
+    "splunk.commands.enableCertificateVerification": true,
+    "terminal.integrated.profiles.windows": {
+        "PowerShell": {
+            "source": "PowerShell",
+            "icon": "terminal-powershell"
+        },
+        "Command Prompt": {
+            "path": [
+                "${env:windir}\\Sysnative\\cmd.exe",
+                "${env:windir}\\System32\\cmd.exe"
+            ],
+            "args": [],
+            "icon": "terminal-cmd"
+        },
+        "Git Bash": {
+            "source": "Git Bash"
+        },
+        "Ubuntu-20.04 (WSL)": {
+            "path": "C:\\Windows\\System32\\wsl.exe",
+            "args": [
+                "-d",
+                "Ubuntu-20.04"
+            ]
+        }
+    },
+    "terminal.integrated.defaultProfile.windows": "Windows PowerShell",
+    "terminal.integrated.ignoreProcessNames": [
+        "starship",
+        "bash",
+        "zsh",
+        "oh-my-posh"
+    ],
+    "terminal.integrated.fontFamily": "MesLoLGMDZ NF",
+    "glassit.alpha": 240,
+    "cSpell.userWords": [
+        "ASPNETCORE",
+        "Behaviour",
+        "Raycast",
+        "Rigidbody"
+    ],
+    "eslint.options": {},
+    "window.zoomLevel": 2,
+    "cmake.configureOnOpen": true,
+    "go.toolsManagement.autoUpdate": true,
+    "cmake.showOptionsMovedNotification": false,
+    "editor.formatOnSave": true,
+    "editor.suggest.insertMode": "replace",
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+    "editor.linkedEditing": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "launch": {},
+    "[json]": {},
+    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "update.showReleaseNotes": false,
+    "zenMode.hideLineNumbers": false,
+    "editor.lineNumbers": "relative",
+    "vim.leader": "<Space>",
+    "vim.hlsearch": true,
+    "vim.normalModeKeyBindingsNonRecursive": [
+        // NAVIGATION
+        // switch b/w buffers
+        {
+            "before": [
+                "<S-h>"
+            ],
+            "commands": [
+                ":bprevious"
+            ]
+        },
+        {
+            "before": [
+                "<S-l>"
+            ],
+            "commands": [
+                ":bnext"
+            ]
+        },
+        // splits
+        {
+            "before": [
+                "leader",
+                "v"
+            ],
+            "commands": [
+                ":vsplit"
+            ]
+        },
+        {
+            "before": [
+                "leader",
+                "s"
+            ],
+            "commands": [
+                ":split"
+            ]
+        },
+        // panes
+        {
+            "before": [
+                "leader",
+                "h"
+            ],
+            "commands": [
+                "workbench.action.focusLeftGroup"
+            ]
+        },
+        {
+            "before": [
+                "leader",
+                "j"
+            ],
+            "commands": [
+                "workbench.action.focusBelowGroup"
+            ]
+        },
+        {
+            "before": [
+                "leader",
+                "k"
+            ],
+            "commands": [
+                "workbench.action.focusAboveGroup"
+            ]
+        },
+        {
+            "before": [
+                "leader",
+                "l"
+            ],
+            "commands": [
+                "workbench.action.focusRightGroup"
+            ]
+        },
+        // NICE TO HAVE
+        {
+            "before": [
+                "leader",
+                "w"
+            ],
+            "commands": [
+                ":w!"
+            ]
+        },
+        {
+            "before": [
+                "leader",
+                "q"
+            ],
+            "commands": [
+                ":q!"
+            ]
+        },
+        {
+            "before": [
+                "leader",
+                "x"
+            ],
+            "commands": [
+                ":x!"
+            ]
+        },
+        {
+            "before": [
+                "[",
+                "d"
+            ],
+            "commands": [
+                "editor.action.marker.prev"
+            ]
+        },
+        {
+            "before": [
+                "]",
+                "d"
+            ],
+            "commands": [
+                "editor.action.marker.next"
+            ]
+        },
+        {
+            "before": [
+                "<leader>",
+                "c",
+                "a"
+            ],
+            "commands": [
+                "editor.action.quickFix"
+            ]
+        },
+        {
+            "before": [
+                "leader",
+                "f"
+            ],
+            "commands": [
+                "workbench.action.quickOpen"
+            ]
+        },
+        {
+            "before": [
+                "leader",
+                "p"
+            ],
+            "commands": [
+                "editor.action.formatDocument"
+            ]
+        },
+        {
+            "before": [
+                "g",
+                "h"
+            ],
+            "commands": [
+                "editor.action.showDefinitionPreviewHover"
+            ]
+        }
+    ],
+    "vim.visualModeKeyBindings": [
+        // Stay in visual mode while indenting
+        {
+            "before": [
+                "<"
+            ],
+            "commands": [
+                "editor.action.outdentLines"
+            ]
+        },
+        {
+            "before": [
+                ">"
+            ],
+            "commands": [
+                "editor.action.indentLines"
+            ]
+        },
+        // Move selected lines while staying in visual mode
+        {
+            "before": [
+                "J"
+            ],
+            "commands": [
+                "editor.action.moveLinesDownAction"
+            ]
+        },
+        {
+            "before": [
+                "K"
+            ],
+            "commands": [
+                "editor.action.moveLinesUpAction"
+            ]
+        },
+        // toggle comment selection
+        {
+            "before": [
+                "leader",
+                "c"
+            ],
+            "commands": [
+                "editor.action.commentLine"
+            ]
+        }
+    ],
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "go.toolsManagement.autoUpdate": true,
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.startupEditor": "none",
+    "window.customTitleBarVisibility": "auto"
+}
