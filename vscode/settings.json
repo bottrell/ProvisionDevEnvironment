@@ -51,12 +51,6 @@
     "errorLens.enabled": true,
     "editor.lineNumbers": "relative",
     "svelte.enable-ts-plugin": true,
-    "splunk.commands.token": "eyJraWQiOiJzcGx1bmsuc2VjcmV0IiwiYWxnIjoiSFM1MTIiLCJ2ZXIiOiJ2MiIsInR0eXAiOiJzdGF0aWMifQ.eyJpc3MiOiIzMTM0NDE2IGZyb20gVzA5ODVFQVBQUzUwMTEiLCJzdWIiOiIzMTM0NDE2IiwiYXVkIjoidGVzdDIiLCJpZHAiOiJMREFQOi8vdXMubWVpamVyLmNvbSIsImp0aSI6ImIyYTZhZDE3OTM4ZjA3YmJhMzgwZGQ0ZWQ0MmQzYzZlNzFjMGYxZWJhZTI1NmQ1NGMxMjFlZWY1OTE5NTliMWQiLCJpYXQiOjE2ODY1OTExMzMsImV4cCI6MCwibmJyIjoxNjg2NTkxMTMzfQ.3ztPGYJsCeU2iS-yU41rbk-T_KYzNScIahH5IuTQ7VpJ1y7qdloouYNp8-dpra0sgNiHdq6VE5q3w_GOrfXONg",
-    "splunk.commands.splunkRestUrl": "https://10.101.165.25:8089",
-    "splunk.reports.SplunkSearchHead": "https://10.101.165.25:8089",
-    "splunk.search.searchOutputMode": "json",
-    "splunk.reports.viewRefreshInterval": 60,
-    "splunk.commands.enableCertificateVerification": true,
     "terminal.integrated.profiles.windows": {
         "PowerShell": {
             "source": "PowerShell",

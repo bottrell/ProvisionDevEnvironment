@@ -15,3 +15,6 @@ source ~/.zshrc
 ## ---------Installing Node---------
 nvm install node
 
+## ---------Performing Expo setup --
+npm install expo
+npx expo install react-dom react-native-web @expo/metro-runtime
